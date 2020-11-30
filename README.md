@@ -13,5 +13,5 @@ Home Api:http://iroidtechnologies.in/friday/index.php?route=api/common <br />
 
 Method:Get <br />
 
-![alt text](https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_20201129_214401.png?raw=true)
+![alt text](https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_2020-11-30-19-33-33-13.jpg?raw=true)
 
