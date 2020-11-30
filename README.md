@@ -12,6 +12,10 @@ use below APIs <br />
 Home Api:http://iroidtechnologies.in/friday/index.php?route=api/common <br />
 
 Method:Get <br />
+<p align="center">
+  <img src="https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_2020-11-30-19-33-33-13.jp" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
-![alt text](https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_2020-11-30-19-33-33-13.jpg?raw=true)
+
 
