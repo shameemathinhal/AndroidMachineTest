@@ -1,12 +1,12 @@
 # AndroidMachineTestTwoYear
 
 
-Create UI and integrate APIs of product list page 
-use same design as per below image.
-use Java or Koltin 
-Use Design pattern(MVC/MVVM/MVP)
-Try to maintain a clean codebase
-Source code share drive or GitHub
+Create UI and integrate APIs of Home Api  <br />
+use same design as per below image. <br />
+use Java or Koltin  <br />
+Use Design pattern(MVC/MVVM/MVP) <br />
+Try to maintain a clean codebase <br />
+Source code share drive or GitHub <br />
 
 use below APIs
 Home Api:http://iroidtechnologies.in/friday/index.php?route=api/common
