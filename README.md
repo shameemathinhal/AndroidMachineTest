@@ -10,12 +10,11 @@ Create below UI and integrate APIs of Home Api  <br /> <br />
 ⋅⋅*Try to maintain a clean codebase <br />
 ⋅⋅*Source code share drive or GitHub <br /> <br />
 
-use below APIs <br />
-Home Api:http://iroidtechnologies.in/friday/index.php?route=api/common <br />
-Method:Get <br /><br />
 
+DESIGN LINK:https://xd.adobe.com/view/0caa3659-3e3a-4a22-b82a-0e5e9205e577-59f9/
 
-<img src="https://github.com/shameemathinhal/AndroidMachineTestTwoYear/blob/main/Screenshot_2020-11-30-19-33-33-13.jpg" width="30%"></img>
+API(POSTMAN COLLECTION LINK):https://documenter.getpostman.com/view/6349407/Uz5MGZgC
+
 
 
 
