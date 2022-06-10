@@ -3,8 +3,8 @@
 
 
 
-Create below UI and integrate APIs of Home Api  <br /> <br />
-⋅⋅*use same design as per below image. <br />
+Create below UI and integrate APIs of Home API and Login API <br /> <br />
+⋅⋅*use same design as per XD. <br />
 ⋅⋅*use Java or Koltin  <br />
 ⋅⋅*Use Design pattern(MVC/MVVM/MVP) <br />
 ⋅⋅*Try to maintain a clean codebase <br />
